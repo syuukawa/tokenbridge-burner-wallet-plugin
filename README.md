@@ -205,3 +205,6 @@ The prompt will ask for the new version, complete it with the version from `my-p
 
 
 More information in https://classic.yarnpkg.com/en/docs/publishing-a-package/
+
+
+修改文件XDaiGateway.js
