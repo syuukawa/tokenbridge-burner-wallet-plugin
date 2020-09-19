@@ -17,8 +17,8 @@
     "my-plugin"
   ],
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^2.5.0",
-    "@typescript-eslint/parser": "^2.5.0",
+    "@typescript-eslint/eslint-plugin": "^3.1.0",
+    "@typescript-eslint/parser": "^3.1.0",
     "eslint": "^6.6.0",
     "eslint-config-prettier": "^6.10.0",
     "eslint-plugin-prettier": "^3.1.2",
@@ -27,6 +27,9 @@
     "prettier": "^1.19.1"
   },
   "dependencies": {
-    "typescript": "^3.6.3"
+    "@babel/core": "^7.0.0-0",
+    "@poanet/tokenbridge-bw-exchange": "^1.1.0",
+    "typescript": "3.7.2",
+    "web3": "^1.3.0"
   }
 }

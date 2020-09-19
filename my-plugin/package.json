@@ -14,6 +14,6 @@
     "@poanet/tokenbridge-bw-exchange": "^1.1.0"
   },
   "devDependencies": {
-    "typescript": "^3.5.2"
+    "typescript": "3.7.2"
   }
 }

@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../src/pairs/abis/index.ts"],"names":[],"mappings":"krWAAA","file":"static/js/4.c7a95e12.chunk.js","sourcesContent":["export { default as uniswapToken } from './UniswapTokenPurchase.json';\nexport { default as uniswapFactory } from './UniswapFactory.json';\n//# sourceMappingURL=index.js.map"],"sourceRoot":""}
